@@ -1,3 +1,14 @@
-/started
-/logs
-/.ipynb_checkpoints
+folder_001/
+folder_002/
+folder_003/
+folder_004/
+folder_005/
+folder_006/
+folder_007/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+desktop.ini
+test.jpg
+generate_shares.py
+reconstructed.py
